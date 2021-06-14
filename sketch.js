@@ -23,7 +23,7 @@ function setup() {
   world = engine.world;
 
   //Play the Sound
-  //gameSound.play();
+  gameSound.play();
 
   //ground1 = new Ground(width/2,580);
 
